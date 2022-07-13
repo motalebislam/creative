@@ -1,0 +1,17 @@
+@media (max-width: 700px){
+.main-menu .bi {
+    display: block;
+    color: #fff;
+    margin: 10px 25px;
+    font-size: 22px;
+    cursor: pointer;
+}
+}
+
+@media (max-width: 700px){
+.bi-list {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+}
